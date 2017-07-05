@@ -1,3 +1,6 @@
 function showdescription(){
-	$(".drop-down-description").toggleClass("hidden");
+	$(".description").toggleClass("hidden");
+	document.getElementById("specific").style.height="80%";
+	
+
 }

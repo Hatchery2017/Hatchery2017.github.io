@@ -1,20 +1,18 @@
 
 .hidden{
 	display: none;
+	
+}
+
+
+.description{
 	text-align: center;
+	position: relative;
+	margin-top: 50px;
 }
 
-.dropdown{
-    display: none;
-    background-color: #222;
-    position: absolute;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 12px 16px;
-    z-index: 1;
-}
+.headstyle{
+	
 
-.hover:hover .dropdown {
-    display: block;
 }
 
